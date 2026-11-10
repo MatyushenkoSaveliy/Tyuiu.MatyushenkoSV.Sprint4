@@ -18,7 +18,7 @@ namespace Tyuiu.MatyushenkoSV.Sprint4.Task2.V19.Lib
                     sum += array[i];
                 }
             }
-
+             
             return sum;
         }
     }
