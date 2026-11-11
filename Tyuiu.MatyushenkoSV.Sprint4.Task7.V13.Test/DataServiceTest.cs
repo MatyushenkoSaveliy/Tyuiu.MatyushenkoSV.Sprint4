@@ -19,7 +19,7 @@ namespace Tyuiu.MatyushenkoSV.Sprint4.Task7.V13.Test
             int res = ds.Calculate(rows, columns, str);
 
             int wait = 3;
-
+             
             Assert.AreEqual(wait, res);
         }
     }
